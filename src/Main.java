@@ -9,7 +9,7 @@ public class Main {
 
         FeatureSun adamX= new FeatureSun();
         adamX.name="poyaaaa";
-        adamX.tempppp=kljoıjlkl;
+        adamX.tempppp="kljoıjlkl";
         adamX.sizeeee= " sdfhsjdkfsdfsd km ";
 
 

@@ -12,6 +12,12 @@ public class Main {
         adamX.tempppp="kljoıjlkl";
         adamX.sizeeee= " sdfhsjdkfsdfsd km ";
 
+        Planet1 x = new Planet1();
+        x.name="reon";
+        x.color="pink";
+        x.size="sdhfjskfs";
+        x.temp="fenna";
+
 
     }
 }
